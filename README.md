@@ -1,4 +1,4 @@
 # Little-CAD-2D
 Integrantes: 
-Gabriel Dávila 
+Gabriel Dávila y 
 Diego Castro
