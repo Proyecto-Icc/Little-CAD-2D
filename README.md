@@ -1,4 +1,4 @@
 # Little-CAD-2D
-Integrantes
+Integrantes: 
 Gabriel Dávila 
 Diego Castro
